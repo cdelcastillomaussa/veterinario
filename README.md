@@ -1,6 +1,8 @@
 # Laravel Veterinario usando Filament.php
 
-Con Laravel v-12 y package Laravel Breeze, el package Breeze facilita la implementación de funcionalidades básicas de autenticación (registro, inicio de sesión, restablecimiento de contraseñas, etc.) en una aplicación web.
+Un back office es la parte interna de una empresa donde se gestionan tareas administrativas, financieras y operativas que no están directamente relacionadas con el contacto con el cliente.
+
+Con Laravel v-12 y package Filament.php, el package Filament.php facilita crear paneles de administración rápidos y personalizables en aplicaciones Laravel. Permite a los desarrolladores crear interfaces de usuario intuitivas para gestionar datos, usuarios y flujos de trabajo dentro de un back office, sin necesidad de escribir código HTML o CSS complejo.
 
 ## Instalación
 
