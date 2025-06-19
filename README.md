@@ -26,6 +26,10 @@ Con Laravel v-12 y package Laravel Breeze, el package Breeze facilita la impleme
 
 1. Ejecutar la aplicacion
    `php artisan serve`
+2. Crear user dentro de Filament.php
+   `php artisan make:filament-user`
+3. Digirirse a su navegador e ir a la siguiente URL
+   `127.0.0.1:8000/admin`
 
 ## Convención para los mensajes de commits
 
