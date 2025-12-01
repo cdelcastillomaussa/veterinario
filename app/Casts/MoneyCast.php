@@ -18,7 +18,7 @@ class MoneyCast implements CastsAttributes
     }
 
     /**
-     * Prepare the given value for storage.
+     * Prepare the given value for storage. (From the model to the database)
      *
      * @param  array<string, mixed>  $attributes
      */
